@@ -2,5 +2,3 @@
 
 
 [Ссылка на репозиторий](https://github.com/xBajdakov/mesto-project-ff)
-
-[Ссылка на GitHub Pages]()
